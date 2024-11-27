@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **HTML|CSS|Bootstrap**
 
-- 💬 Ask me about **Android,HTML,C++,CSS,JS,Bootstrap,Figma,**
-
 - 📫 How to reach me **hafizaaqsa944@gmail.com**
 
 - ⚡ Fun fact **I Think I am Funny.**
