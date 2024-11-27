@@ -1,6 +1,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/D4D12AQFAdOrAQe1HEA/article-cover_image-shrink_720_1280/0/1709674661110?e=2147483647&v=beta&t=cXi9xoqDSrGR1XANMQyOXbhjIXhnmGcj5epolciGEF4)]
 <h1 align="center">Hi 👋, I'm Hafiza Aqsa</h1>
-<h3 align="center">A passionate frontend developer from Pakistan.per from India</h3>
+<h3 align="center">A passionate frontend developer from Pakistan.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif" 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafizaaqsadev&label=Profile%20views&color=0e75b6&style=flat" alt="hafizaaqsadev" /> </p>
 
